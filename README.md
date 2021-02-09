@@ -1,8 +1,10 @@
-ColorGame-Project
+# ColorGame-Project
 
-* this is my first project
+### this is my first project
 
-This Project Is Written In:
+#### This Project Is Written In:
 
-* HTML, CSS, JavaScript
+* HTML
+* CSS
+* JavaScript
 
